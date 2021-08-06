@@ -1,0 +1,1001 @@
+;tipo_entrega;valor_borda;valor_refrigerante;dia_semana;interval_pico;rank_quartil_valor_total_pizza
+0;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+1;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+2;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+3;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+4;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+5;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+6;Buscar;Borda S;S;sexta;baixo;vl_pizza: 27 -- 32
+7;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+8;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+9;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+10;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+11;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+12;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+13;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+14;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+15;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+16;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+17;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+18;Entrega;Borda S;S;sexta;alto;vl_pizza: > 33
+19;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+20;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+21;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+22;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+23;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+24;Entrega;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+25;Entrega;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+26;Buscar;Borda S;S;sabado;baixo;vl_pizza: 27 -- 32
+27;Buscar;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+28;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+29;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+30;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+31;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+32;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+33;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+34;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+35;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+36;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+37;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+38;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+39;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+40;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+41;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+42;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+43;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+44;Entrega;Borda S;S;sabado;alto;vl_pizza: > 33
+45;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+46;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+47;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+48;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+49;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+50;Buscar;Borda N;S;domingo;baixo;vl_pizza: 27 -- 32
+51;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+52;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+53;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+54;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+55;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+56;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+57;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+58;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+59;Entrega;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+60;Buscar;Borda S;S;domingo;alto;vl_pizza: 22 -- 26
+61;Buscar;Borda S;S;domingo;alto;vl_pizza: 01 -- 21
+62;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+63;Buscar;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+64;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+65;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+66;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+67;Entrega;Borda S;S;terca;alto;vl_pizza: > 33
+68;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+69;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+70;Entrega;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+71;Buscar;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+72;Entrega;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+73;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+74;Entrega;Borda N;S;quarta;baixo;vl_pizza: > 33
+75;Entrega;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+76;Buscar;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+77;Entrega;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+78;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+79;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+80;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+81;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+82;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+83;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+84;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+85;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+86;Entrega;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+87;Buscar;Borda N;S;quarta;alto;vl_pizza: 01 -- 21
+88;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+89;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+90;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+91;Buscar;Borda N;S;quinta;baixo;vl_pizza: 01 -- 21
+92;Entrega;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+93;Buscar;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+94;Buscar;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+95;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+96;Entrega;Borda N;S;quinta;medio;vl_pizza: > 33
+97;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+98;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+99;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+100;Entrega;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+101;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+102;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+103;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+104;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+105;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+106;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+107;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+108;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+109;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+110;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+111;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+112;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+113;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+114;Buscar;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+115;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+116;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+117;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+118;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+119;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+120;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+121;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+122;Entrega;Borda S;S;sabado;alto;vl_pizza: > 33
+123;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+124;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+125;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+126;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+127;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+128;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+129;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+130;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+131;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+132;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+133;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+134;Entrega;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+135;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+136;Entrega;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+137;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+138;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+139;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+140;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+141;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+142;Buscar;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+143;Buscar;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+144;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+145;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+146;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+147;Entrega;Borda S;S;quarta;alto;vl_pizza: > 33
+148;Buscar;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+149;Buscar;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+150;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+151;Buscar;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+152;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+153;Entrega;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+154;Buscar;Borda N;S;quinta;alto;vl_pizza: > 33
+155;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+156;Buscar;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+157;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+158;Buscar;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+159;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+160;Entrega;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+161;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+162;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+163;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+164;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+165;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+166;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+167;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+168;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+169;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+170;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+171;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+172;Entrega;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+173;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+174;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+175;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+176;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+177;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+178;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+179;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+180;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+181;Buscar;Borda S;S;sabado;baixo;vl_pizza: 27 -- 32
+182;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+183;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+184;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+185;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+186;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+187;Entrega;Borda S;S;sabado;medio;vl_pizza: > 33
+188;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+189;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+190;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+191;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+192;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+193;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+194;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+195;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+196;Entrega;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+197;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+198;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+199;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+200;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+201;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+202;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+203;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+204;Buscar;Borda S;S;sabado;alto;vl_pizza: 22 -- 26
+205;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+206;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+207;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+208;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+209;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+210;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+211;Entrega;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+212;Entrega;Borda S;S;sabado;baixo;vl_pizza: 27 -- 32
+213;Entrega;Borda S;S;domingo;baixo;vl_pizza: 22 -- 26
+214;Buscar;Borda N;S;domingo;baixo;vl_pizza: 27 -- 32
+215;Entrega;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+216;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+217;Entrega;Borda S;S;domingo;alto;vl_pizza: 22 -- 26
+218;Buscar;Borda S;S;domingo;alto;vl_pizza: 22 -- 26
+219;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+220;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+221;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+222;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+223;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+224;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+225;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+226;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+227;Entrega;Borda N;S;domingo;baixo;vl_pizza: 27 -- 32
+228;Buscar;Borda N;S;terca;medio;vl_pizza: 27 -- 32
+229;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+230;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+231;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+232;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+233;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+234;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+235;Buscar;Borda N;S;terca;baixo;vl_pizza: 01 -- 21
+236;Buscar;Borda N;S;quarta;baixo;vl_pizza: 01 -- 21
+237;Entrega;Borda N;S;quarta;baixo;vl_pizza: > 33
+238;Buscar;Borda N;S;quarta;baixo;vl_pizza: 27 -- 32
+239;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+240;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+241;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+242;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+243;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+244;Buscar;Borda N;S;quinta;baixo;vl_pizza: 22 -- 26
+245;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+246;Buscar;Borda N;S;quinta;baixo;vl_pizza: 22 -- 26
+247;Buscar;Borda N;S;quinta;baixo;vl_pizza: 22 -- 26
+248;Buscar;Borda N;S;quinta;baixo;vl_pizza: 01 -- 21
+249;Entrega;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+250;Entrega;Borda N;S;quinta;medio;vl_pizza: > 33
+251;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+252;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+253;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+254;Buscar;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+255;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+256;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+257;Entrega;Borda N;S;quinta;baixo;vl_pizza: 01 -- 21
+258;Buscar;Borda S;S;sexta;baixo;vl_pizza: 27 -- 32
+259;Buscar;Borda N;S;sexta;baixo;vl_pizza: 01 -- 21
+260;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+261;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+262;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+263;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+264;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+265;Entrega;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+266;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+267;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+268;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+269;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+270;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+271;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+272;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+273;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+274;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+275;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+276;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+277;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+278;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+279;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+280;Entrega;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+281;Entrega;Borda N;S;sexta;baixo;vl_pizza: 01 -- 21
+282;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+283;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+284;Entrega;Borda S;S;sabado;medio;vl_pizza: > 33
+285;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+286;Buscar;Borda N;S;sabado;medio;vl_pizza: > 33
+287;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+288;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+289;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+290;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+291;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+292;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+293;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+294;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+295;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+296;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+297;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+298;Buscar;Borda S;S;sabado;alto;vl_pizza: 01 -- 21
+299;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+300;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+301;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+302;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+303;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+304;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+305;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+306;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+307;Entrega;Borda N;S;domingo;baixo;vl_pizza: > 33
+308;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+309;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+310;Entrega;Borda S;S;domingo;medio;vl_pizza: 22 -- 26
+311;Entrega;Borda S;S;domingo;medio;vl_pizza: 22 -- 26
+312;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+313;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+314;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+315;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+316;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+317;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+318;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+319;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+320;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+321;Buscar;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+322;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+323;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+324;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+325;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+326;Buscar;Borda N;S;domingo;baixo;vl_pizza: 27 -- 32
+327;Buscar;Borda N;S;terca;baixo;vl_pizza: 22 -- 26
+328;Entrega;Borda N;S;terca;medio;vl_pizza: 01 -- 21
+329;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+330;Buscar;Borda N;S;terca;medio;vl_pizza: 27 -- 32
+331;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+332;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+333;Buscar;Borda S;S;terca;alto;vl_pizza: 27 -- 32
+334;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+335;Entrega;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+336;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+337;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+338;Buscar;Borda N;S;terca;baixo;vl_pizza: 01 -- 21
+339;Entrega;Borda N;S;terca;baixo;vl_pizza: 01 -- 21
+340;Buscar;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+341;Buscar;Borda N;S;quarta;baixo;vl_pizza: 27 -- 32
+342;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+343;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+344;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+345;Buscar;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+346;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+347;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+348;Entrega;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+349;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+350;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+351;Buscar;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+352;Entrega;Borda N;S;quarta;alto;vl_pizza: 01 -- 21
+353;Entrega;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+354;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+355;Buscar;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+356;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+357;Buscar;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+358;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+359;Entrega;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+360;Buscar;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+361;Buscar;Borda S;S;quinta;medio;vl_pizza: 27 -- 32
+362;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+363;Entrega;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+364;Entrega;Borda S;S;quinta;alto;vl_pizza: > 33
+365;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+366;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+367;Buscar;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+368;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+369;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+370;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+371;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+372;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+373;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+374;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+375;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+376;Entrega;Borda S;S;sexta;alto;vl_pizza: 22 -- 26
+377;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+378;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+379;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+380;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+381;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+382;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+383;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+384;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+385;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+386;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+387;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+388;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+389;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+390;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+391;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+392;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+393;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+394;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+395;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+396;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+397;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+398;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+399;Buscar;Borda N;S;sabado;alto;vl_pizza: > 33
+400;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+401;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+402;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+403;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+404;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+405;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+406;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+407;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+408;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+409;Entrega;Borda N;S;domingo;baixo;vl_pizza: 01 -- 21
+410;Buscar;Borda S;S;domingo;baixo;vl_pizza: 27 -- 32
+411;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+412;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+413;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+414;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+415;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+416;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+417;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+418;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+419;Entrega;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+420;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+421;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+422;Entrega;Borda N;S;terca;medio;vl_pizza: 27 -- 32
+423;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+424;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+425;Entrega;Borda S;S;terca;alto;vl_pizza: 22 -- 26
+426;Entrega;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+427;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+428;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+429;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+430;Entrega;Borda S;S;quarta;medio;vl_pizza: 27 -- 32
+431;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+432;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+433;Buscar;Borda N;S;quarta;alto;vl_pizza: > 33
+434;Buscar;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+435;Entrega;Borda N;S;quinta;baixo;vl_pizza: 22 -- 26
+436;Entrega;Borda S;S;quinta;medio;vl_pizza: > 33
+437;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+438;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+439;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+440;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+441;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+442;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+443;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+444;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+445;Entrega;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+446;Entrega;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+447;Buscar;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+448;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+449;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+450;Buscar;Borda S;S;sexta;alto;vl_pizza: 22 -- 26
+451;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+452;Entrega;Borda S;S;sexta;alto;vl_pizza: 22 -- 26
+453;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+454;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+455;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+456;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+457;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+458;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+459;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+460;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+461;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+462;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+463;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+464;Entrega;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+465;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+466;Entrega;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+467;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+468;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+469;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+470;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+471;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+472;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+473;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+474;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+475;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+476;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+477;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+478;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+479;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+480;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+481;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+482;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+483;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+484;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+485;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+486;Entrega;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+487;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+488;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+489;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+490;Entrega;Borda N;S;domingo;baixo;vl_pizza: 22 -- 26
+491;Buscar;Borda N;S;domingo;baixo;vl_pizza: 22 -- 26
+492;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+493;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+494;Entrega;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+495;Entrega;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+496;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+497;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+498;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+499;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+500;Entrega;Borda S;S;domingo;alto;vl_pizza: > 33
+501;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+502;Buscar;Borda N;S;domingo;alto;vl_pizza: > 33
+503;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+504;Buscar;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+505;Buscar;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+506;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+507;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+508;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+509;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+510;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+511;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+512;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+513;Entrega;Borda N;S;terca;baixo;vl_pizza: > 33
+514;Buscar;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+515;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+516;Entrega;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+517;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+518;Buscar;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+519;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+520;Buscar;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+521;Buscar;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+522;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+523;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+524;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+525;Buscar;Borda N;S;terca;medio;vl_pizza: 01 -- 21
+526;Buscar;Borda N;S;terca;medio;vl_pizza: 27 -- 32
+527;Buscar;Borda N;S;terca;baixo;vl_pizza: 27 -- 32
+528;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+529;Buscar;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+530;Entrega;Borda N;S;quarta;alto;vl_pizza: > 33
+531;Buscar;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+532;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+533;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+534;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+535;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+536;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+537;Buscar;Borda S;S;quarta;alto;vl_pizza: 22 -- 26
+538;Entrega;Borda N;S;quarta;alto;vl_pizza: > 33
+539;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+540;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+541;Buscar;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+542;Buscar;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+543;Entrega;Borda N;S;quarta;alto;vl_pizza: > 33
+544;Entrega;Borda N;S;quarta;alto;vl_pizza: > 33
+545;Buscar;Borda N;S;quarta;alto;vl_pizza: > 33
+546;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+547;Buscar;Borda S;S;quarta;alto;vl_pizza: 01 -- 21
+548;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+549;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+550;Entrega;Borda S;S;quarta;alto;vl_pizza: 22 -- 26
+551;Buscar;Borda N;S;quarta;alto;vl_pizza: 01 -- 21
+552;Buscar;Borda N;S;quarta;alto;vl_pizza: 01 -- 21
+553;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+554;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+555;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+556;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+557;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+558;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+559;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+560;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+561;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+562;Buscar;Borda N;S;quarta;baixo;vl_pizza: 27 -- 32
+563;Buscar;Borda N;S;quinta;baixo;vl_pizza: 01 -- 21
+564;Entrega;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+565;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+566;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+567;Buscar;Borda S;S;quinta;alto;vl_pizza: > 33
+568;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+569;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+570;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+571;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+572;Entrega;Borda S;S;sexta;baixo;vl_pizza: 22 -- 26
+573;Entrega;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+574;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+575;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+576;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+577;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+578;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+579;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+580;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+581;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+582;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+583;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+584;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+585;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+586;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+587;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+588;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+589;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+590;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+591;Entrega;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+592;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+593;Buscar;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+594;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+595;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+596;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+597;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+598;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+599;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+600;Entrega;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+601;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+602;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+603;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+604;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+605;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+606;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+607;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+608;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+609;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+610;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+611;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+612;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+613;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+614;Buscar;Borda S;S;sexta;medio;vl_pizza: 27 -- 32
+615;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+616;Buscar;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+617;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+618;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+619;Buscar;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+620;Entrega;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+621;Buscar;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+622;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+623;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+624;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+625;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+626;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+627;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+628;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+629;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+630;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+631;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+632;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+633;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+634;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+635;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+636;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+637;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+638;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+639;Entrega;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+640;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+641;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+642;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+643;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+644;Entrega;Borda S;S;sabado;alto;vl_pizza: 22 -- 26
+645;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+646;Entrega;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+647;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+648;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+649;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+650;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+651;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+652;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+653;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+654;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+655;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+656;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+657;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+658;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+659;Entrega;Borda N;S;domingo;baixo;vl_pizza: > 33
+660;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+661;Entrega;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+662;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+663;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+664;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+665;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+666;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+667;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+668;Entrega;Borda S;S;domingo;alto;vl_pizza: 22 -- 26
+669;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+670;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+671;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+672;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+673;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+674;Buscar;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+675;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+676;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+677;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+678;Entrega;Borda N;S;terca;baixo;vl_pizza: 22 -- 26
+679;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+680;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+681;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+682;Buscar;Borda S;S;terca;alto;vl_pizza: 22 -- 26
+683;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+684;Buscar;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+685;Buscar;Borda S;S;terca;alto;vl_pizza: 27 -- 32
+686;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+687;Buscar;Borda N;S;quarta;alto;vl_pizza: > 33
+688;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+689;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+690;Entrega;Borda S;S;quarta;alto;vl_pizza: > 33
+691;Buscar;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+692;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+693;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+694;Entrega;Borda N;S;quinta;baixo;vl_pizza: 01 -- 21
+695;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+696;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+697;Buscar;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+698;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+699;Entrega;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+700;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+701;Entrega;Borda N;S;quinta;alto;vl_pizza: 01 -- 21
+702;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+703;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+704;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+705;Entrega;Borda N;S;quinta;medio;vl_pizza: > 33
+706;Entrega;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+707;Entrega;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+708;Buscar;Borda N;S;quinta;baixo;vl_pizza: 22 -- 26
+709;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+710;Buscar;Borda N;S;quinta;baixo;vl_pizza: 27 -- 32
+711;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+712;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+713;Entrega;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+714;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+715;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+716;Entrega;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+717;Entrega;Borda S;S;sexta;alto;vl_pizza: 22 -- 26
+718;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+719;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+720;Buscar;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+721;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+722;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+723;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+724;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+725;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+726;Buscar;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+727;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+728;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+729;Entrega;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+730;Entrega;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+731;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+732;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+733;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+734;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+735;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+736;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+737;Entrega;Borda S;S;sabado;medio;vl_pizza: > 33
+738;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+739;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+740;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+741;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+742;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+743;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+744;Entrega;Borda S;S;sabado;alto;vl_pizza: 22 -- 26
+745;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+746;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+747;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+748;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+749;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+750;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+751;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+752;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+753;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+754;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+755;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+756;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+757;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+758;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+759;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+760;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+761;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+762;Buscar;Borda N;S;sabado;medio;vl_pizza: > 33
+763;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+764;Buscar;Borda N;S;sabado;baixo;vl_pizza: 01 -- 21
+765;Buscar;Borda N;S;domingo;baixo;vl_pizza: 27 -- 32
+766;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+767;Buscar;Borda S;S;domingo;medio;vl_pizza: 27 -- 32
+768;Buscar;Borda S;S;domingo;medio;vl_pizza: 27 -- 32
+769;Entrega;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+770;Entrega;Borda S;S;domingo;alto;vl_pizza: > 33
+771;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+772;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+773;Buscar;Borda N;S;domingo;alto;vl_pizza: > 33
+774;Buscar;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+775;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+776;Entrega;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+777;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+778;Buscar;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+779;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+780;Buscar;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+781;Entrega;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+782;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+783;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+784;Entrega;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+785;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+786;Buscar;Borda N;S;domingo;baixo;vl_pizza: 01 -- 21
+787;Entrega;Borda N;S;terca;baixo;vl_pizza: > 33
+788;Buscar;Borda S;S;terca;baixo;vl_pizza: 22 -- 26
+789;Entrega;Borda N;S;terca;baixo;vl_pizza: > 33
+790;Buscar;Borda N;S;terca;baixo;vl_pizza: 27 -- 32
+791;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+792;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+793;Entrega;Borda N;S;terca;medio;vl_pizza: 01 -- 21
+794;Entrega;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+795;Entrega;Borda N;S;terca;alto;vl_pizza: > 33
+796;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+797;Entrega;Borda S;S;terca;medio;vl_pizza: > 33
+798;Buscar;Borda N;S;terca;medio;vl_pizza: 01 -- 21
+799;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+800;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+801;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+802;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+803;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+804;Entrega;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+805;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+806;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+807;Entrega;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+808;Buscar;Borda N;S;quinta;medio;vl_pizza: 01 -- 21
+809;Buscar;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+810;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+811;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+812;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+813;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+814;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+815;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+816;Entrega;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+817;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+818;Entrega;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+819;Entrega;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+820;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+821;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+822;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+823;Entrega;Borda S;S;sexta;medio;vl_pizza: 27 -- 32
+824;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+825;Entrega;Borda N;S;sexta;medio;vl_pizza: 27 -- 32
+826;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+827;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+828;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+829;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+830;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+831;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+832;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+833;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+834;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+835;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+836;Entrega;Borda S;S;sexta;alto;vl_pizza: > 33
+837;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+838;Buscar;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+839;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+840;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+841;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+842;Buscar;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+843;Buscar;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+844;Buscar;Borda N;S;sexta;baixo;vl_pizza: 01 -- 21
+845;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+846;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+847;Buscar;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+848;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+849;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+850;Entrega;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+851;Buscar;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+852;Entrega;Borda N;S;sabado;medio;vl_pizza: 22 -- 26
+853;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+854;Entrega;Borda S;S;sabado;medio;vl_pizza: > 33
+855;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+856;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+857;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+858;Entrega;Borda S;S;sabado;alto;vl_pizza: 22 -- 26
+859;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+860;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+861;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+862;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+863;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+864;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+865;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+866;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+867;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+868;Entrega;Borda S;S;sabado;alto;vl_pizza: > 33
+869;Entrega;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+870;Entrega;Borda N;S;sabado;alto;vl_pizza: > 33
+871;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+872;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+873;Entrega;Borda N;S;sabado;medio;vl_pizza: > 33
+874;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+875;Entrega;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+876;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+877;Entrega;Borda N;S;sabado;baixo;vl_pizza: > 33
+878;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+879;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+880;Buscar;Borda N;S;domingo;medio;vl_pizza: > 33
+881;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+882;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+883;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+884;Buscar;Borda N;S;domingo;medio;vl_pizza: 01 -- 21
+885;Entrega;Borda N;S;domingo;medio;vl_pizza: > 33
+886;Buscar;Borda N;S;domingo;alto;vl_pizza: 01 -- 21
+887;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+888;Buscar;Borda N;S;domingo;alto;vl_pizza: 22 -- 26
+889;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+890;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+891;Entrega;Borda N;S;domingo;alto;vl_pizza: > 33
+892;Buscar;Borda S;S;domingo;alto;vl_pizza: 27 -- 32
+893;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+894;Entrega;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+895;Buscar;Borda N;S;domingo;alto;vl_pizza: 27 -- 32
+896;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+897;Entrega;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+898;Buscar;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+899;Buscar;Borda N;S;domingo;medio;vl_pizza: 27 -- 32
+900;Entrega;Borda N;S;domingo;medio;vl_pizza: 22 -- 26
+901;Entrega;Borda N;S;terca;baixo;vl_pizza: 22 -- 26
+902;Entrega;Borda N;S;terca;baixo;vl_pizza: 22 -- 26
+903;Entrega;Borda N;S;terca;baixo;vl_pizza: 22 -- 26
+904;Buscar;Borda N;S;terca;baixo;vl_pizza: 01 -- 21
+905;Entrega;Borda N;S;terca;baixo;vl_pizza: 01 -- 21
+906;Entrega;Borda S;S;terca;baixo;vl_pizza: 27 -- 32
+907;Buscar;Borda N;S;terca;baixo;vl_pizza: 27 -- 32
+908;Entrega;Borda N;S;terca;baixo;vl_pizza: 27 -- 32
+909;Entrega;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+910;Entrega;Borda S;S;terca;alto;vl_pizza: > 33
+911;Buscar;Borda N;S;terca;alto;vl_pizza: 27 -- 32
+912;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+913;Buscar;Borda S;S;terca;alto;vl_pizza: 27 -- 32
+914;Entrega;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+915;Buscar;Borda N;S;terca;alto;vl_pizza: 22 -- 26
+916;Buscar;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+917;Buscar;Borda N;S;terca;alto;vl_pizza: 01 -- 21
+918;Buscar;Borda N;S;terca;medio;vl_pizza: 22 -- 26
+919;Buscar;Borda N;S;terca;medio;vl_pizza: 27 -- 32
+920;Entrega;Borda N;S;terca;medio;vl_pizza: > 33
+921;Entrega;Borda N;S;quarta;baixo;vl_pizza: 22 -- 26
+922;Entrega;Borda N;S;quarta;medio;vl_pizza: 01 -- 21
+923;Buscar;Borda N;S;quarta;alto;vl_pizza: 27 -- 32
+924;Buscar;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+925;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+926;Buscar;Borda N;S;quarta;alto;vl_pizza: > 33
+927;Buscar;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+928;Entrega;Borda S;S;quarta;alto;vl_pizza: 27 -- 32
+929;Buscar;Borda N;S;quarta;alto;vl_pizza: 01 -- 21
+930;Entrega;Borda N;S;quarta;alto;vl_pizza: 22 -- 26
+931;Buscar;Borda N;S;quarta;alto;vl_pizza: > 33
+932;Entrega;Borda N;S;quarta;medio;vl_pizza: 22 -- 26
+933;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+934;Entrega;Borda S;S;quarta;medio;vl_pizza: > 33
+935;Entrega;Borda N;S;quarta;medio;vl_pizza: > 33
+936;Buscar;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+937;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+938;Entrega;Borda N;S;quarta;medio;vl_pizza: 27 -- 32
+939;Entrega;Borda N;S;quinta;baixo;vl_pizza: > 33
+940;Entrega;Borda N;S;quinta;medio;vl_pizza: > 33
+941;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+942;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+943;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+944;Entrega;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+945;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+946;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+947;Buscar;Borda N;S;quinta;alto;vl_pizza: 27 -- 32
+948;Buscar;Borda N;S;quinta;alto;vl_pizza: 22 -- 26
+949;Buscar;Borda S;S;quinta;alto;vl_pizza: > 33
+950;Buscar;Borda S;S;quinta;alto;vl_pizza: 27 -- 32
+951;Entrega;Borda N;S;quinta;alto;vl_pizza: > 33
+952;Buscar;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+953;Buscar;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+954;Entrega;Borda N;S;quinta;medio;vl_pizza: 27 -- 32
+955;Entrega;Borda N;S;quinta;medio;vl_pizza: 22 -- 26
+956;Entrega;Borda S;S;quinta;baixo;vl_pizza: 27 -- 32
+957;Buscar;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+958;Entrega;Borda N;S;sexta;baixo;vl_pizza: 27 -- 32
+959;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+960;Buscar;Borda N;S;sexta;baixo;vl_pizza: 01 -- 21
+961;Buscar;Borda N;S;sexta;medio;vl_pizza: 22 -- 26
+962;Entrega;Borda N;S;sexta;medio;vl_pizza: 01 -- 21
+963;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+964;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+965;Entrega;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+966;Buscar;Borda N;S;sexta;alto;vl_pizza: 01 -- 21
+967;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+968;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+969;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+970;Buscar;Borda S;S;sexta;alto;vl_pizza: 27 -- 32
+971;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+972;Buscar;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+973;Entrega;Borda N;S;sexta;alto;vl_pizza: > 33
+974;Entrega;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+975;Entrega;Borda N;S;sexta;alto;vl_pizza: 27 -- 32
+976;Buscar;Borda N;S;sexta;alto;vl_pizza: 22 -- 26
+977;Entrega;Borda N;S;sexta;medio;vl_pizza: > 33
+978;Entrega;Borda N;S;sexta;baixo;vl_pizza: 22 -- 26
+979;Entrega;Borda N;S;sexta;baixo;vl_pizza: > 33
+980;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+981;Buscar;Borda N;S;sabado;baixo;vl_pizza: 27 -- 32
+982;Entrega;Borda N;S;sabado;baixo;vl_pizza: 22 -- 26
+983;Buscar;Borda N;S;sabado;medio;vl_pizza: 01 -- 21
+984;Buscar;Borda N;S;sabado;medio;vl_pizza: > 33
+985;Entrega;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+986;Buscar;Borda S;S;sabado;medio;vl_pizza: 27 -- 32
+987;Buscar;Borda N;S;sabado;medio;vl_pizza: 27 -- 32
+988;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+989;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+990;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+991;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+992;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+993;Entrega;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
+994;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+995;Buscar;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+996;Buscar;Borda S;S;sabado;alto;vl_pizza: 27 -- 32
+997;Entrega;Borda N;S;sabado;alto;vl_pizza: 27 -- 32
+998;Buscar;Borda N;S;sabado;alto;vl_pizza: 01 -- 21
+999;Buscar;Borda N;S;sabado;alto;vl_pizza: 22 -- 26
